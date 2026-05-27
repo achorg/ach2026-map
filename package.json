@@ -1,0 +1,26 @@
+{
+  "name": "ach2026-map",
+  "version": "0.1.0",
+  "description": "WorkAdventure map for ACH2026",
+  "main": "index.js",
+  "scripts": {
+    "update-map": "node scripts/update-map.js",
+    "build": "webpack --config webpack.prod.js",
+    "start": "webpack serve --open"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^1.0.1",
+    "@workadventure/scripting-api-extra": "^1.5.3"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.1.0",
+    "style-loader": "^3.3.1",
+    "css-loader": "^6.7.3",
+    "webpack-merge": "^5.7.3"
+  }
+}

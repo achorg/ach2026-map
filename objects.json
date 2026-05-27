@@ -1,0 +1,38 @@
+[
+  {
+    "id": "portal-entrance",
+    "type": "teleport",
+    "x": 16,
+    "y": 16,
+    "width": 32,
+    "height": 32,
+    "target": { "map": "ach2026-map.json", "x": 16, "y": 16 }
+  },
+  {
+    "id": "portal-plaza",
+    "type": "teleport",
+    "x": 360,
+    "y": 48,
+    "width": 32,
+    "height": 32,
+    "target": { "map": "ach2026-map.json", "x": 360, "y": 48 }
+  },
+  {
+    "id": "portal-beach",
+    "type": "teleport",
+    "x": 64,
+    "y": 320,
+    "width": 32,
+    "height": 32,
+    "target": { "map": "ach2026-map.json", "x": 64, "y": 320 }
+  },
+  {
+    "id": "info-spot",
+    "type": "info",
+    "x": 300,
+    "y": 100,
+    "width": 32,
+    "height": 32,
+    "text": "Welcome to ACH2026 — explore the park, beach and city!"
+  }
+]

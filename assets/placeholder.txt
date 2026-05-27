@@ -1,0 +1,3 @@
+Place the ACH2026 map image here as `ach2026-map.png`.
+
+You can replace this file with the provided PNG from the attachments.

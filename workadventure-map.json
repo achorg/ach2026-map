@@ -1,0 +1,12 @@
+{
+  "map": "ach2026-map.json",
+  "title": "ACH2026 Map",
+  "version": "0.1",
+  "author": "achorg",
+  "start": {
+    "x": 0,
+    "y": 0,
+    "floor": 0
+  },
+  "objects": "objects.json"
+}
