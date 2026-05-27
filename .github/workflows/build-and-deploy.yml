@@ -2,6 +2,7 @@ name: Optimize map and deploy
 
 on:
   push:
+    branches: [ main ]
 
 jobs:
   deploy:
@@ -30,17 +31,17 @@ jobs:
         run: mv dist/* . || true
 
       - name: Commit generated files
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         run: |
           ls -al
           git config --global user.email "apjanco@gmail.com"
           git config --global user.name "apjanco"
-          git checkout master
+          git checkout main
           git add .
           git commit -m "Adding files" || echo "No changes to commit"
 
       - name: Deploy
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
