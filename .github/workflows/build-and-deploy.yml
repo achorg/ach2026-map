@@ -25,9 +25,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Convert TMX map to JSON and copy assets
-        run: npm run convert-map
-
       - name: Build scripts
         run: npm run build
 
