@@ -4,6 +4,7 @@
   "description": "WorkAdventure map for ACH2026",
   "main": "index.js",
   "scripts": {
+    "convert-map": "node scripts/convert-tmx.js",
     "update-map": "node scripts/update-map.js",
     "build": "webpack --config webpack.prod.js",
     "start": "webpack serve --open"
@@ -12,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "image-size": "^1.0.1",
+    "xml2js": "^0.6.2",
     "@workadventure/scripting-api-extra": "^1.5.3"
   },
   "devDependencies": {

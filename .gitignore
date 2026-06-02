@@ -2,4 +2,4 @@
 /node_modules/
 /dist/
 /build/
-/assets/*.png
+# /assets/*.png  (generated locally via npm run convert-map, committed directly)
