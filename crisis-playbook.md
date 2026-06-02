@@ -24,17 +24,28 @@
 ### Essential Commands
 
 ```bash
+# The app is installed here
+/home/workadventure/apps/workadventure
+
 # Check all container statuses
 docker compose ps
 
-# Tail logs for a specific service
-docker compose logs -f <service>
+# Check logs
+docker compose logs -f
+# for a specific service
+docker compose logs -f play
+
+# Start all services
+docker compose -f docker-compose.yaml -f docker-compose.prod.yaml up -d
+
+# Stop all services
+docker compose -f docker-compose.yaml -f docker-compose.prod.yaml down
 
 # Restart a single service
 docker compose restart <service>
 
 # Restart everything
-docker compose down && docker compose up -d
+docker compose -f docker-compose.yaml -f docker-compose.prod.yaml down && docker compose -f docker-compose.yaml -f docker-compose.prod.yaml up -d
 
 # Check resource usage
 docker stats --no-stream
