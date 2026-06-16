@@ -6,28 +6,23 @@
   "scripts": {
     "convert-map": "node scripts/convert-tmx.js",
     "update-map": "node scripts/update-map.js",
-    "enhance-tilesets": "node scripts/enhance-tilesets.js",
     "build": "webpack --config webpack.prod.js",
     "start": "webpack serve --open"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@workadventure/scripting-api-extra": "^1.5.3",
     "image-size": "^1.0.1",
-    "xml2js": "^0.6.2"
+    "xml2js": "^0.6.2",
+    "@workadventure/scripting-api-extra": "^1.5.3"
   },
   "devDependencies": {
-    "css-loader": "^6.7.3",
-    "dotenv": "^17.4.2",
     "html-webpack-plugin": "^5.3.2",
-    "jimp": "^1.6.1",
-    "replicate": "^1.4.0",
-    "sharp": "^0.35.1",
-    "style-loader": "^3.3.1",
     "webpack": "^5.31.2",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.1.0",
+    "style-loader": "^3.3.1",
+    "css-loader": "^6.7.3",
     "webpack-merge": "^5.7.3"
   }
 }
