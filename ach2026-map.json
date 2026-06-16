@@ -951,13 +951,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":45,
-                 "name":"Arcade1_Pikto",
+                 "name":"Arcade1_Skribbl.io",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/freegames.org\/shooting-balls\/"
+                         "value":"https:\/\/skribbl.io\/?ref=browsergames.gg"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1048,13 +1048,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":46,
-                 "name":"Arcade2_SmashKarts",
+                 "name":"Arcade2_Birb",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.crazygames.com\/game\/smash-karts"
+                         "value":"https:\/\/oleonze.itch.io\/birb"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1145,13 +1145,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":47,
-                 "name":"Arcade3_Soccer",
+                 "name":"Arcade3_MakeItMeme",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.crazygames.com\/game\/goal-gang"
+                         "value":"https:\/\/makeitmeme.com\/?ref=browsergames.gg"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1242,7 +1242,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":48,
-                 "name":"Arcade4_Trivia",
+                 "name":"Arcade4_GeometryVibes",
                  "opacity":1,
                  "properties":[
                         {
@@ -1339,13 +1339,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":49,
-                 "name":"Arcade5_Trace",
+                 "name":"Arcade5_AmongUs",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.crazygames.com\/game\/trace"
+                         "value":"https:\/\/playminigames.net\/game\/among-us"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1436,13 +1436,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":50,
-                 "name":"Arcade6_SpaceWaves",
+                 "name":"Arcade6_ShootingBalls",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.crazygames.com\/game\/space-waves"
+                         "value":"https:\/\/freegames.org\/shooting-balls\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
