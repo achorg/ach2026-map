@@ -194,6 +194,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/nickszydlowski.com\/pdf\/ACH-poster.pdf"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -290,7 +295,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/youtu.be\/nE6EK-GUkeI"
+                         "value":"https:\/\/www.youtube.com\/embed\/nE6EK-GUkeI?si=WIfxr9yPGl_2XdAp"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -388,6 +398,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/ach2026tylergillis.netlify.app\/"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -482,7 +497,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.feelslikepower.com\/"
                         }],
@@ -582,6 +597,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/tinyurl.com\/anti-management-manifesto"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -676,7 +696,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/wolfproofpress.com\/assets\/images\/gallery\/Prints\/Visconti-Print-CraftIsTechnology.jpg"
                         }],
