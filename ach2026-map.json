@@ -584,7 +584,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/achorg.github.io\/ach2026-map\/assets\/pssst_emcCabe.png"
                         }],
