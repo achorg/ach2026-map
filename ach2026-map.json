@@ -295,7 +295,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/11WiygsmLgDHu8EAZoWPkPjbowKWMBP6h\/edit?slide=id.p1#slide=id.p1"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/11WiygsmLgDHu8EAZoWPkPjbowKWMBP6h\/edit?usp=sharing&ouid=111942399457140243084&rtpof=true&sd=true"
                         }, 
                         {
                          "name":"openWebsitePolicy",
